@@ -13,7 +13,7 @@ public class Ques1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		
+		System.out.println("random");
 		// Ques1. Wite a Java program to create read only data using List, Set and Map in example
 		
 		// -------------------- read oly list -----------------------
