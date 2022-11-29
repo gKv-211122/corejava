@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tech
+ *
+ */
+module CollectionFrameworkAssignment {
+}
